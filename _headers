@@ -1,3 +1,7 @@
 /main.css
   Content-Type: text/css
   Access-Control-Allow-Origin: *
+
+/app.js
+  Content-Type: application/javascript
+  Access-Control-Allow-Origin: *
